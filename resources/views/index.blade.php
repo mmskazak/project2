@@ -9,5 +9,7 @@
 </head>
 <body>
         <h1>Привет!</h1>
+        <div id="app">
+        </div>
 </body>
 </html>
