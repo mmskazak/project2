@@ -13,4 +13,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/{any}', 'SpaControler@index')->where('any', '.*');
+Route::get('/{any}', 'SpaController@index')->where('any', '.*');
