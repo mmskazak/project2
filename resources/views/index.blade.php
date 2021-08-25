@@ -8,8 +8,10 @@
     <title>Trello analog</title>
 </head>
 <body>
-        <h1>Привет!</h1>
+        <h1>Привет!!!</h1>
         <div id="app">
+            <app></app>
         </div>
+        <script src="{{mix('js/app.js')}}"></script>
 </body>
 </html>
